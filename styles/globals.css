@@ -83,6 +83,14 @@
     rgba(255, 255, 255, 0) 100%
   );
 }
+.map-gradient-01 {
+  background: linear-gradient(180deg, #d46062 0%, #880383 100%);
+  filter: blur(70px);
+}
+.map-gradient-02 {
+  background: linear-gradient(180deg, #05776e 0%, #09597e 100%);
+  filter: blur(70px);
+}
 
 .feedback-gradient {
   position: absolute;
